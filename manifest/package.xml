@@ -13,6 +13,7 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>DemoClass</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
         <members>IUClass</members>
@@ -921,6 +922,9 @@
         <members>DelegatedAccount.Name</members>
         <members>DelegatedAccount.OwnerId</members>
         <members>DelegatedAccount.TargetId</members>
+        <members>DemoObject__c.Email__c</members>
+        <members>DemoObject__c.Name__c</members>
+        <members>DemoObject__c.TYPE__c</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.AuditEmail</members>
         <members>DigitalWallet.Comments</members>
@@ -2089,6 +2093,7 @@
         <members>DataUseLegalBasis</members>
         <members>DataUsePurpose</members>
         <members>DelegatedAccount</members>
+        <members>DemoObject__c</members>
         <members>DigitalWallet</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
