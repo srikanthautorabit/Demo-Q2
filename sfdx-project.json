@@ -1,39 +1,35 @@
 {
-    "packageDirectories": [
-        {
-            "path": "SeptemberPackage",
-            "default": false,
-            "package": "SeptemberPackage",
-            "versionName": "SeptemberPackage",
-            "versionNumber": "1.0.0.0"
-        },
-        {
-            "path": "VWFSDemoPackage",
-            "default": true,
-            "package": "VWFSDemoPackage",
-            "versionName": "VWFSDemoPackage",
-            "versionNumber": "1.0.0.0"
-        },
-        {
-            "path": "force-app",
-            "default": false
-        },
-        {
-            "path": "VWFSDemoPackage",
-            "package": "VWFSUnlocked",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
-    ],
-    "namespace": "GanjiAR",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "52.0",
-    "packageAliases": {
-        "SeptemberPackage": "0Ho2x000000XZYfCAO",
-        "SeptemberPackage@1.0.0.0": "04t2x000004BzSsAAK",
-        "VWFSDemoPackage": "0Ho2x000000XZYkCAO",
-        "VWFSDemoPackage@1.0.0.0": "04t2x000004BzTCAA0",
-        "VWFSUnlocked": "0Ho5e000000wkLdCAI"
-    }
+  "packageDirectories" : [ {
+    "path" : "VWFSDemoPackage",
+    "default" : false,
+    "package" : "VWFSUnlocked",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "VWFSDemoPackage",
+    "default" : true,
+    "package" : "VWFSDemoPackage",
+    "versionName" : "VWFSDemoPackage",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "SeptemberPackage",
+    "default" : false,
+    "package" : "SeptemberPackage",
+    "versionName" : "SeptemberPackage",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app",
+    "default" : false
+  } ],
+  "namespace" : "GanjiAR",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "52.0",
+  "packageAliases" : {
+    "SeptemberPackage" : "0Ho2x000000XZYfCAO",
+    "SeptemberPackage@1.0.0.0" : "04t2x000004BzSsAAK",
+    "VWFSDemoPackage" : "0Ho2x000000XZYkCAO",
+    "VWFSDemoPackage@1.0.0.0" : "04t2x000004BzTCAA0",
+    "VWFSUnlocked" : "0Ho5e000000wkLdCAI",
+    "VWFSUnlocked@1.0.0.0" : "04t5e000000NjOuAAK"
+  }
 }
