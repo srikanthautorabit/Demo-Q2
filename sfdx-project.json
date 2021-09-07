@@ -1,19 +1,26 @@
 {
-  "packageDirectories" : [ {
-    "path" : "SeptemberPackage",
-    "default" : true,
-    "package" : "SeptemberPackage",
-    "versionName" : "SeptemberPackage",
-    "versionNumber" : "1.0.0.0"
-  }, {
-    "path" : "force-app",
-    "default" : false
-  } ],
-  "namespace" : "SDOC",
-  "sfdcLoginUrl" : "https://login.salesforce.com",
-  "sourceApiVersion" : "52.0",
-  "packageAliases" : {
-    "SeptemberPackage" : "0Ho2x000000XZYfCAO",
-    "SeptemberPackage@1.0.0.0" : "04t2x000004BzSsAAK"
-  }
+    "packageDirectories": [
+        {
+            "path": "SeptemberPackage",
+            "default": true,
+            "package": "SeptemberPackage",
+            "versionName": "SeptemberPackage",
+            "versionNumber": "1.0.0.0"
+        },
+        {
+            "path": "force-app",
+            "default": false,
+            "package": "DEmoPackage-2",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "SDOC",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "SeptemberPackage": "0Ho2x000000XZYfCAO",
+        "SeptemberPackage@1.0.0.0": "04t2x000004BzSsAAK",
+        "DEmoPackage-2": "0Ho2x000000XZYpCAO"
+    }
 }
