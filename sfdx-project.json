@@ -9,7 +9,7 @@
     "path" : "force-app",
     "default" : false
   } ],
-  "namespace" : "ARDEMO",
+  "namespace" : "wk_comp_calc",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "52.0",
   "packageAliases" : {
