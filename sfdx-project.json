@@ -1,11 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
+  "packageDirectories" : [ {
+    "path" : "NewVWFSDEMO",
+    "default" : true,
+    "package" : "NewVWFSDEMO",
+    "versionName" : "NewVWFSDEMO",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app",
+    "default" : false
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "52.0",
+  "packageAliases" : {
+    "NewVWFSDEMO" : "0Ho5e000000wkLnCAI",
+    "NewVWFSDEMO@1.0.0.0" : "04t5e000000NjOzAAK"
+  }
 }
