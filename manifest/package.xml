@@ -121,6 +121,12 @@
         <name>Bot</name>
     </types>
     <types>
+        <members>Jana.v1</members>
+        <members>Jana.v2</members>
+        <members>Jana_Copy.v1</members>
+        <name>BotVersion</name>
+    </types>
+    <types>
         <members>Case.AUTO CASES</members>
         <members>Case.RABIT CASES</members>
         <name>BusinessProcess</name>
