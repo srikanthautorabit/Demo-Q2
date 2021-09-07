@@ -9,7 +9,7 @@
     "path" : "force-app",
     "default" : false
   } ],
-  "namespace" : "wk_comp_calc",
+  "namespace" : "SDOC",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "52.0",
   "packageAliases" : {
