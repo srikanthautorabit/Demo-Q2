@@ -1,9 +1,15 @@
 {
   "packageDirectories" : [ {
     "path" : "SeptemberPackage",
-    "default" : true,
+    "default" : false,
     "package" : "SeptemberPackage",
     "versionName" : "SeptemberPackage",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "VWFSDemoPackage",
+    "default" : true,
+    "package" : "VWFSDemoPackage",
+    "versionName" : "VWFSDemoPackage",
     "versionNumber" : "1.0.0.0"
   }, {
     "path" : "force-app",
@@ -14,6 +20,8 @@
   "sourceApiVersion" : "52.0",
   "packageAliases" : {
     "SeptemberPackage" : "0Ho2x000000XZYfCAO",
-    "SeptemberPackage@1.0.0.0" : "04t2x000004BzSsAAK"
+    "SeptemberPackage@1.0.0.0" : "04t2x000004BzSsAAK",
+    "VWFSDemoPackage" : "0Ho2x000000XZYkCAO",
+    "VWFSDemoPackage@1.0.0.0" : "04t2x000004BzTCAA0"
   }
 }
