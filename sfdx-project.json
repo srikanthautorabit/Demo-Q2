@@ -15,7 +15,7 @@
     "path" : "force-app",
     "default" : false
   } ],
-  "namespace" : "",
+  "namespace" : "GanjiAR",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "52.0",
   "packageAliases" : {
