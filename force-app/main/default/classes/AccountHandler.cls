@@ -1,9 +1,8 @@
 //testing
-//testing123
 public class AccountHandler {
 public static Account insertNewAccount()
 {
-//testing for mergepull
+string new;
      string s;
           string sri;
      Account act = New Account();
@@ -22,4 +21,5 @@ public static Account insertNewAccount()
 
 //testing
 //tesing123
+///newtesttt
 }
