@@ -2699,7 +2699,6 @@
     </types>
     <types>
         <members>Live_Agent_Setup_Flow</members>
-        <members>NEWPERMISSIONJULY</members>
         <members>New_permission_set</members>
         <members>sfdc_chatbot_service_permset</members>
         <members>test_permission</members>
