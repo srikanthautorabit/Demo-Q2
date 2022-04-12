@@ -1,14 +1,13 @@
 Public class Casehelper{
-//testing
-    //new test
+
     public static Boolean runOnce = true;
     list<case> caselist = new list<case>();
     set<id> CaseId=new set<id>();
-    
+    set<id> test = new set<id>();
     public void onAfterUpdate(list<case> Caslist){
             Casehelper.runOnce = true;
          system.debug('Caslist>>>'+ Caslist);    
-            
+            system.debug('test');    
     for(Case cas:Caslist){
           if(Cas!=null){
             CaseId.add(Cas.Id);
