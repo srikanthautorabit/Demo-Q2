@@ -1,11 +1,38 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : false,
+    "package" : "DEmoPackage-2",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "SeptemberPackage",
+    "default" : false,
+    "package" : "TestManagedPackage",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "Srikanth-Package1",
+    "default" : true,
+    "package" : "Srikanth-Package1",
+    "versionName" : "Srikanth-Package1",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "SeptemberPackage",
+    "default" : false,
+    "package" : "SeptemberPackage",
+    "versionName" : "SeptemberPackage",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "GanjiAR",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "52.0",
+  "packageAliases" : {
+    "SeptemberPackage" : "0Ho2x000000XZYfCAO",
+    "SeptemberPackage@1.0.0.0" : "04t2x000004BzSsAAK",
+    "DEmoPackage-2" : "0Ho2x000000XZYpCAO",
+    "TestManagedPackage" : "0Ho5e000000wkLYCAY",
+    "Srikanth-Package1" : "0Ho2x0000004CdwCAE",
+    "Srikanth-Package1@1.0.0.0" : "04t2x000003vSD4AAM"
+  }
 }
